@@ -1,0 +1,2 @@
+#Indicarle a node que cambios queremos que tome en cuenta al recargar la página
+nodemon server.js -e js,hbs,html,css
